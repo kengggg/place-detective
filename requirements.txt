@@ -1,0 +1,5 @@
+requests>=2.31.0
+pandas>=2.0.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.20.0
+colorama>=0.4.6
